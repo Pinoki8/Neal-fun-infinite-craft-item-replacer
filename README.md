@@ -15,5 +15,5 @@ javascript:fetch("https://tinyurl.com/4mh9vs82").then(r=>r.text()).then(code=>ev
 To unload the mod menu reload the page
 
 ## Important notes:
-If the item that you have created can't be fused with anything, it means that it never existed before, making it useless.
+The item you are creating might be unfusable
 Clicking on the name of the item won't do anything, so click on the emoji / anything else instead

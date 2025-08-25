@@ -7,10 +7,9 @@ Just easy javascript gui to webside.
 ```
 javascript:fetch("https://raw.githubusercontent.com/Pinoki8/Neal-fun-infinite-craft-item-replacer/refs/heads/main/Code").then(r=>r.text()).then(code=>eval(code));
 ```
-(or the shorter one:
+(or the shorter one:)
 ```
 javascript:fetch("https://tinyurl.com/4mh9vs82").then(r=>r.text()).then(code=>eval(code));
 ```
-)
 4. Click enter and done!
 To unload the mod menu reload the page

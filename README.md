@@ -1,4 +1,6 @@
 # Neal.fun Infinite craft menu info
+<img width="418" height="683" alt="image" src="https://github.com/user-attachments/assets/1906d400-0545-43a8-ba3d-2b9f83e729e3" />
+
 ## Features
 -Anti ads - tries to delete most of annoying ads (70% success rate)
 

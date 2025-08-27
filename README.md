@@ -27,3 +27,4 @@ To unload the mod menu reload the pag
 The item you are creating might be unfusable  
 Clicking on the name of the item won't do anything, so click on the emoji / anything else instead  
 I don't have any more plans to this project for now.
+Also check my other program, [Infinite Craft Editor!](https://github.com/Pinoki8/Infinite-Craft-Editor)
